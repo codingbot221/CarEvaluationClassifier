@@ -29,18 +29,18 @@ This project implements a machine learning classifier to evaluate car acceptabil
  ---------------------------------------------------
 ## Installation
 
--  1.Clone the repository
+#  1.Clone the repository
   
    `git clone https://github.com/codingbot221/CarEvaluationClassifier.git` <br>
 ` cd CarEvaluationClassifier`  <br>
-- 2.Usage  
+# 2.Usage  
    Run the notebook  <br>
    Open the Jupyter notebook to view the analysis, model training, and evaluation:  <br>
    jupyter notebook CarEvaluationClassifier.ipynb <br>
 
-- 3.Run the Gradio app 
+# 3.Run the Gradio app 
 If you want to try the live model via the user interface:  <br>
-   python gradio_app.py  <br>
+python gradio_app.py  <br>
 Then open the automatically generated link in your browser.  <br>
 
 ## ModelPerformance
