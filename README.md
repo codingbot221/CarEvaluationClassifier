@@ -29,7 +29,7 @@ This project implements a machine learning classifier to evaluate car acceptabil
  ---------------------------------------------------
 ## Installation
 
-- 1. Clone the repository
+-  1.Clone the repository
   
    `git clone https://github.com/codingbot221/CarEvaluationClassifier.git` <br>
 ` cd CarEvaluationClassifier`  <br>
